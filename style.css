@@ -1,0 +1,22 @@
+img{
+    width: 100%;
+    max-width: 100%;
+}
+
+.carousel-item {
+    height: 800px;
+    position: relative;  
+}
+.carousel-caption{
+    position: absolute;
+    top: 50% !important;
+    bottom: 50% !important;
+}
+
+
+
+
+.form-check h4 {
+	margin-left: -25px !important;
+	padding-bottom: 14px !important;
+}
